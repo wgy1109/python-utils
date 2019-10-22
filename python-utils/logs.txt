@@ -1,0 +1,12 @@
+Fri, 06 Sep 2019 09:07:44 wobida.py[line:138] DEBUG: debug
+Fri, 06 Sep 2019 09:07:44 wobida.py[line:139] INFO: info
+Fri, 06 Sep 2019 09:07:44 wobida.py[line:140] WARNING: warning
+Fri, 06 Sep 2019 09:07:44 wobida.py[line:141] ERROR: error
+Fri, 06 Sep 2019 09:07:44 wobida.py[line:142] CRITICAL: critical
+Fri, 06 Sep 2019 09:07:44 kafka.py[line:423] INFO: Closing the Kafka producer with 0 secs timeout.
+Fri, 06 Sep 2019 09:07:44 kafka.py[line:443] INFO: Proceeding to force close the producer since pending requests could not be completed within timeout 0.
+Fri, 06 Sep 2019 09:07:44 sender.py[line:64] DEBUG: Beginning shutdown of Kafka producer I/O thread, sending remaining records.
+Fri, 06 Sep 2019 09:07:44 conn.py[line:628] INFO: <BrokerConnection node_id=0 host=192.168.1.6/192.168.1.6 port=9092>: Closing connection. 
+Fri, 06 Sep 2019 09:07:44 conn.py[line:610] DEBUG: <BrokerConnection node_id=0 host=192.168.1.6/192.168.1.6 port=9092>: reconnect backoff 0.044645311153910114 after 1 failures
+Fri, 06 Sep 2019 09:07:44 sender.py[line:88] DEBUG: Shutdown of Kafka producer I/O thread has completed.
+Fri, 06 Sep 2019 09:07:44 kafka.py[line:459] DEBUG: The Kafka producer has closed.
